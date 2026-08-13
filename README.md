@@ -1,5 +1,4 @@
-# CMOS-Standard-Cell-Design-Layout-and-Characterization
-# CMOS Standard Cell Design and Characterization
+# CMOS Standard Cell Design, Layout and Characterization
 
 ## Overview
 
