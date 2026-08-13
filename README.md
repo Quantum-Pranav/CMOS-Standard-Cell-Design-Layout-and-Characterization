@@ -141,7 +141,7 @@ schematic and physical implementation.
   parasitics across the three cells.
 - Performed **200-run Monte Carlo analysis** on the CMOS inverter to
   evaluate process-induced timing variation.
-- Evaluated the CMOS inverter under the **SS process corner**.
+- Evaluated the CMOS inverter under the **SS and FF process corner**.
 
 ---
 
