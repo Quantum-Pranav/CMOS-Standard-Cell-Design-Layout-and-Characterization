@@ -107,10 +107,9 @@ evaluate the effect of process variation on propagation delay.
 
 ## Process Corner Analysis
 
-The CMOS inverter was additionally evaluated under the Slow-Slow (SS)
+The CMOS inverter was additionally evaluated under the Slow-Slow (SS) and Fast-Fast (FF)
 process corner to assess performance under reduced device drive strength.
 
-![SS Corner Analysis](images/ss_inverter.png)
 
 ---
 
